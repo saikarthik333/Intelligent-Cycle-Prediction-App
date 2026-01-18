@@ -177,10 +177,3 @@ This application is for **educational and research purposes only**. It is not in
 **Motapothula Sai Karthik** \
 B.Tech CSE \
 saikarthikmotapothula333@gmail.com
-
-## 🛠️ Tech Stack
-
-- **Backend:** Python, Pandas, Scikit-learn
-- **Frontend:** Streamlit
-- **Containerization:** Docker
-- **Deployment:** AWS EC2
