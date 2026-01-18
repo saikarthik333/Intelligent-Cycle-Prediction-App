@@ -3,8 +3,6 @@
 
 A **Machine Learning web application** that predicts menstrual cycle length using health and demographic data. The application is built with **Python and Streamlit**, powered by **Random Forest regression**, containerized using **Docker** and deployed on **AWS EC2** with a live public demo.
 
-## 🚀 Live Demo
-
 You can access the live, running application here:
 **[http://13.233.111.23:8501](http://13.233.111.23:8501)**
 
